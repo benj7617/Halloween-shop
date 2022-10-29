@@ -1,0 +1,8 @@
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\bin\Debug\WorkspaceTilHalloween.exe.config
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\bin\Debug\WorkspaceTilHalloween.exe
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\bin\Debug\WorkspaceTilHalloween.pdb
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\obj\Debug\WorkspaceTilHalloween.csproj.AssemblyReference.cache
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\obj\Debug\WorkspaceTilHalloween.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\obj\Debug\WorkspaceTilHalloween.csproj.CoreCompileInputs.cache
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\obj\Debug\WorkspaceTilHalloween.exe
+C:\Users\Skole\source\repos\WorkspaceTilHalloween\WorkspaceTilHalloween\obj\Debug\WorkspaceTilHalloween.pdb

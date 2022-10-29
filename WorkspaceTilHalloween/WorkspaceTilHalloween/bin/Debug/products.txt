@@ -1,0 +1,4 @@
+Heksekedel,500,3,Med en kedel kan heksene lave giftige drikke,Pynt
+Frankenstein udklaedning,850,2,Bliv Frankenstein monsteret og skraem dine venner,Toej
+Heksekostume,1000,4,Heksedragt med kost og næse til,Toej
+Edderkop med spindelvaev,250,6,edderkop som kan bindes op overalt med spindelvaev,Pynt
